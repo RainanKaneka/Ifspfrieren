@@ -1,0 +1,184 @@
+.fundo{
+    background-color: white;
+}
+div.letrainstituto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 475px;
+    margin-top: 20px;
+    margin-right: -50px;
+}   
+.barraverde{
+    background-color: green;
+    position: absolute;
+    width: 100vw;
+    display: flex;
+    height: 165px;
+   
+}
+.barraverdeescura{
+    background-color: #00420c;
+    width: 100vw;
+    height: 200px;
+    color: white;
+    font-family: sans-serif;
+    
+} 
+.barrabuscar{
+    border-radius: 8px; 
+    position: flex;
+    margin-left: 500px;
+    display: flex;
+    align-items: center;
+    
+   
+    
+}
+.p1{
+    margin-bottom: -20px    ;
+}
+.p2{
+    margin-top: -20px;
+}
+.barrasverdes{
+    margin-top: 16px;
+    width: 100vw;
+   
+}
+.paradas{
+    margin-left: 1000px;
+    
+}
+.paradas2{
+    padding-top: 10px;
+    color: white;
+
+   
+}
+.bagulho{
+    margin-top: 145px;
+    color: white;
+    margin-left: 1050px;
+    
+   
+    
+}
+.bagulho a{
+    color: #fff;
+    margin-left: 10px;
+}
+.voceaqui{
+    display: flex;
+   margin-left: 175px;
+   margin-top: 20px;
+}
+.buscar{
+    border-radius: 8px;
+    height: 40px;
+    width: 300px;
+    margin-left: -300px;
+}
+.conteudo{
+    color: #fff;
+    font-size: smaller;
+    font-style: none;
+    justify-content: space-between;
+    
+}
+.negocio{
+    justify-content: space-between;
+    display: flex;
+    margin-left: -600px;
+
+}
+.bazinga a{
+    margin-left: 15px;
+}
+.bazinga{
+    margin-left: -140px;
+}
+.Brasillogo{
+    width: auto;
+    height: 15px;
+    margin-bottom: -2px;
+}
+.putsgrila a{
+    color: white;
+    margin-left: 10px;
+    font-size: x-small;
+}
+.material-symbols-outlined{
+    margin-left: -40px;
+    display: flex;
+    
+}
+.ifsplogo{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.voceaqui a{
+    margin-left: 300px;
+    font-size: x-large;
+    font-style: none;
+    background-color: green;
+    border-radius: 10px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    
+}
+body{
+    margin: 0;
+    
+
+}
+.main{
+    color: #172938;
+}
+.principal{
+    margin-left: 460px;
+    margin-top: 50px;
+}
+.paradinhas{
+    margin-top: 10px;
+    width: 100px;
+    
+    
+}
+.props{
+    margin-top: -40px;
+}
+.barrinha{
+    width: 175px;
+    height: 5px;
+    background-color: green;
+    border-radius: 15px;
+    margin-left: -10px;
+}
+.paradinhas a{
+    color: #172938;
+}
+.frierenifsp{
+    width: 750px;
+    height: 250px;
+    margin-bottom: -65px;
+    margin-left: 80px;
+    border-radius: 8px;
+}
+.coisinhas{
+    margin-left: 260px;
+    font-size: larger;
+    
+    
+    
+    
+}
+.coisinhas a{
+    margin-left: 60px;
+    text-decoration: none;
+    background-color: #172938;
+    color: white;
+    border-radius: 8px;
+}
