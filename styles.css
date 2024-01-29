@@ -182,3 +182,45 @@ body{
     color: white;
     border-radius: 8px;
 }
+.frierennoticia{
+    height: 130px;
+    border-radius: 8px;
+    
+}
+.noticias{
+    width: 250px;
+    margin-left: 800px;
+    margin-top: -570px;
+    
+}
+.frierennoticia2{
+    width: 240px;
+    height: 130px;
+    border-radius: 8px;
+}
+.segundanoticia{
+    margin-left: 300px;
+    margin-top: -188px;
+    width: 240px;
+    
+}
+.frierennoticia3{
+    width: 240px;
+    height: 130px;
+    border-radius: 8px;
+}
+.noticia3{
+    margin-top: 30px;
+    margin-left: -300px;
+    width: 240px;
+}
+.frierenimagem4{
+    width: 240px;
+    height: 130px;
+    border-radius: 8px;
+}
+.noticia4{
+    margin-left: 310px;
+    margin-top: -187px;
+    width: 240px;
+}
