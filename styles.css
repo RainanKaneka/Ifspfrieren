@@ -142,7 +142,7 @@ body{
     margin-top: 50px;
 }
 .paradinhas{
-    margin-top: 10px;
+    margin-top: -100px;
     width: 100px;
     
     
@@ -190,7 +190,7 @@ body{
 .noticias{
     width: 250px;
     margin-left: 800px;
-    margin-top: -570px;
+    margin-top: -840px;
     
 }
 .frierennoticia2{
@@ -223,4 +223,40 @@ body{
     margin-left: 310px;
     margin-top: -187px;
     width: 240px;
+}
+.barranoticias{
+    background-color: #00420c;
+    width: 549px;
+    height: 5px;
+    margin-top: 30px;
+    margin-left: 800px;
+   
+}
+.videosdestaque{
+    margin-left: 800px;
+    margin-top: -20px;
+    font-family: sans-serif;
+    position: relative;
+}
+.video1{
+    margin-left: 800px;
+    width: auto;
+    height: 200px;
+    
+
+}
+.video2{
+    margin-left: 800px;
+    margin-top: 200px;
+}
+.noticiasparada{
+    margin-left: 350px;
+    position: relative;
+}
+.barraparanoticias{
+    background-color: #00420c;
+    width: 750px;
+    height: 5px;
+    margin-top: 10px;
+    margin-left: 230px;
 }
